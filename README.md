@@ -1,5 +1,5 @@
-# TCUTD
-TCUTD (also called *The Cool Undertale Debugger*)
+# TCUTTool
+TCUTTool (also called *The Cool Undertale Tool*)
 
 Thought that, for the 10th anniversary (which is today as I'm writing this), I would make something that I wanted to have back in 2016, when I got into the community.
 Think of this as an offline Flowey's, but worse and more limited.
